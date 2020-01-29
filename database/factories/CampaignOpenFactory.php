@@ -1,7 +1,5 @@
 <?php
 
-namespace Spatie\Mailcoach\Tests\database\factories;
-
 use Faker\Generator;
 use Spatie\Mailcoach\Models\Campaign;
 use Spatie\Mailcoach\Models\CampaignOpen;
